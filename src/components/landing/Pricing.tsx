@@ -12,7 +12,7 @@ const plans = [
   },
   {
     name: "Growth",
-    price: "₹149",
+    price: "₹99",
     description: "Custom domains & auto-deploy from Git",
     features: ["Everything in Starter", "Custom domain support", "Git auto deploy", "Priority support"],
     popular: true,
